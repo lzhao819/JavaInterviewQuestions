@@ -15,6 +15,6 @@ public class TestPolymorphism {
 
 		// Even though dog has a method run,it cannot be
 		// invoked using super class reference variable
-		// animal2.run();//COMPILE ERROR
+		//animal2.run();//COMPILE ERROR
 	}
 }

@@ -13,7 +13,7 @@ class Animal {
 	@Override
 	public String toString() {
 		return "Animal [name=" + name + ", type=" + type + "]";
-	}	
+	}
 }
 
 public class ToStringExamples {
