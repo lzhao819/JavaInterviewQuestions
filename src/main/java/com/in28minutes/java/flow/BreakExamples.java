@@ -13,6 +13,7 @@ public class BreakExamples {
 
 		// Break can be used in a while also
 		int i = 0;
+		
 		while (i < 10) {
 			System.out.print(i);
 			if (i == 5) {
