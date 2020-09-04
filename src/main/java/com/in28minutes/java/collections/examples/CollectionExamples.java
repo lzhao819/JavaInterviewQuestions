@@ -71,7 +71,7 @@ class DescendingSorter implements Comparator<Cricketer> {
 
 public class CollectionExamples {
 	public static void main(String[] args) {
-		// Collections can only hold Objects - not primitives.
+		//* Collections can only hold Objects - not primitives.
 		List<Integer> integers = new ArrayList<Integer>();
 
 		// code like below is permitted because of auto boxing
